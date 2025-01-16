@@ -9,3 +9,6 @@ console.log(sub);
 
 let multy = a * b;
 console.log(multy);
+
+let rem = b % a;
+console.log(rem);
